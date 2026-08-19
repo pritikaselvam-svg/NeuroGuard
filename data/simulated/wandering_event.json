@@ -1,0 +1,11 @@
+{
+  "mode": "simulation",
+  "heartRate": 88,
+  "spo2": 98,
+  "battery": 71,
+  "activity": "high",
+  "sleepHours": 4.8,
+  "fall": false,
+  "wanderingEvents": 2,
+  "medicationAdherence": 92
+}
