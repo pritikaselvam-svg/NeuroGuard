@@ -4,6 +4,9 @@
 NeuroGuard is an interdisciplinary engineering prototype combining
 **biological/behavioral reasoning, embedded electronics, PCB design,
 software, Android packaging, and wearable CAD**.
+## PCB Design
+
+![NeuroGuard PCB](media/pcb/WhatsApp%20Image%202026-06-12%20at%2022.39.40.jpeg)
 
 > **Current prototype status:** The caregiver application is functional
 > in Demo/Simulation Mode. The Android application is a WebView wrapper
