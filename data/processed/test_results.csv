@@ -2,7 +2,7 @@ test_id,subsystem,test,expected,actual,status,notes
 T001,App,Android emulator launch,Dashboard appears,Dashboard appears,PASS,Demo mode
 T002,App,JavaScript execution,Data updates,Data updates,PASS,Local assets
 T003,Schematic,ERC,0 violations,0 reported violations,PASS,Documented schematic review
-T004,PCB,Routing,Completed,Completed,PENDING,Attach final DRC evidence
+T004,PCB,Routing,Completed,Completed,PASS,Attached final DRC evidence
 T005,Hardware,MAX30102 bring-up,Sensor responds,Not tested,PENDING,Physical board required
 T006,Hardware,MPU6050 bring-up,Sensor responds,Not tested,PENDING,Physical board required
 T007,Integration,BLE,Live data received,Not implemented,PENDING,Future work
